@@ -19,7 +19,7 @@
     "clientCode": "https://github.com/codernoyan/joldikino-used-products-resale-client",
     "serverCode": "https://github.com/codernoyan/joldikino-used-products-resale-server",
     "liveLink": "https://joldikino-assignment.web.app",
-    "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Stripe", "Axios", "React Query", "React Hook Form", "Firebase", "Node.js", "Express.js", "MongoDB"]
+    "techs": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Stripe", "Axios", "React Query", "React Hook Form", "Firebase", "Node.js", "Express.js", "MongoDB"]
   },
   {
     "id": 2,
@@ -41,7 +41,7 @@
     "clientCode": "https://github.com/codernoyan/shamus-kitchen-client",
     "serverCode": "https://github.com/codernoyan/shamus-kitchen-server",
     "liveLink": "https://cloud-kitchen-assignment.web.app",
-    "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "Firebase", "Node.js",
+    "techs": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "Firebase", "Node.js",
       "Express.js", "MongoDB"]
   },
   {
@@ -64,7 +64,7 @@
     "clientCode": "https://github.com/codernoyan/programming-library-client",
     "serverCode": "https://github.com/codernoyan/programming-library-server",
     "liveLink": "https://programming-library-assignment.web.app",
-    "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "React to PDF",
+    "techs": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "React to PDF",
       "Firebase", "Node.js", "Express.js"]
   }
 ]
