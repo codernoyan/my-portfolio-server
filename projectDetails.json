@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "projectTitle": "Joldikino",
+    "type": "Used Products Resale",
+    "features": [
+      "There is a dashboard to manage the admin panel",
+      "The admin can verify a user delete a user and delete products which is reported by buyer.",
+      "A seller can a add product, advertise a product or delete a product in the dashboard which is posted by the seller.",
+      "A buyer can buy products manage orders to cancel or remove orders in the dashboard.",
+      "There is payment feature for ordered products which is implemented with Stripe"
+    ],
+    "clientCode": "https://github.com/codernoyan/joldikino-used-products-resale-client",
+    "serverCode": "https://github.com/codernoyan/joldikino-used-products-resale-server",
+    "liveLink": "https://joldikino-assignment.web.app",
+    "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Stripe", "Axios", "React Query", "React Hook Form", "Firebase", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "id": 2,
+    "projectTitle": "Shamu's Kitchen",
+    "type": "Cloud Kitchen Website",
+    "features": [
+      "Users can register an account by email password or GitHub to post a review",
+      "Users can register account with their profile image",
+      "Users can see their reviews on a card that consists of user image and date and time info.",
+      "Users can see their posted reviews on my reviews page",
+      "User can manage reviews by editing or delete."
+    ],
+    "clientCode": "https://github.com/codernoyan/shamus-kitchen-client",
+    "serverCode": "https://github.com/codernoyan/shamus-kitchen-server",
+    "liveLink": "https://cloud-kitchen-assignment.web.app",
+    "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "Firebase", "Node.js",
+      "Express.js", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "projectTitle": "Programming Library",
+    "type": "Course Learning Website",
+    "features": [
+      "A user can register an account with email and password to get access to see course details",
+      "Users can register or login via Google and GitHub.",
+      "Users can see course details by register or login",
+      "Users can and can download course info in pdf format.",
+      "Users can get premium access to a particular course by paying a certain amount."
+    ],
+    "clientCode": "https://github.com/codernoyan/programming-library-client",
+    "serverCode": "https://github.com/codernoyan/programming-library-server",
+    "liveLink": "https://programming-library-assignment.web.app/",
+    "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "React to PDF",
+      "Firebase", "Node.js", "Express.js"]
+  }
+]

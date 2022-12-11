@@ -2,10 +2,10 @@
   "name": "noyan-portfolio-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.mjs",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.mjs",
-    "build": "node index.mjs"
+    "start": "node index.js",
+    "build": "node index.js"
   },
   "keywords": [],
   "author": "",
