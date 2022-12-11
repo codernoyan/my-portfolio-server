@@ -2,22 +2,25 @@
   {
     "id": 1,
     "title": "Joldikino",
-    "image": "",
+    "image": "https://i.ibb.co/k4DmDNK/project-1.png",
     "type": "Used Products Resale",
-    "description": "There is a dashboard to manage the admin panel and the admin can verify a user, delete a user and delete reported products. A seller can a add product, advertise a product or delete a product in the dashboard which is posted by the seller. A buyer can buy products manage orders to cancel or remove orders in the dashboard."
+    "description": "There is a dashboard to manage the admin panel and the admin can verify a user, delete a user and delete reported products. A seller can a add product, advertise a product or delete a product in the dashboard which is posted by the seller. A buyer can buy products manage orders to cancel or remove orders in the dashboard.",
+    "liveLink": "https://joldikino-assignment.web.app"
   },
   {
     "id": 2,
     "title": "Shamu's Kitchen",
-    "image": "",
+    "image": "https://i.ibb.co/gFPMjsP/project-2.png",
     "type": "Cloud Kitchen Website",
-    "description": "Users can register an account by email password or GitHub to post a review. Users can see their reviews on a card that consists of user image and date and time info. Users see their posted reviews on my reviews page and manage reviews by editing or delete."
+    "description": "Users can register an account by email password or GitHub to post a review. Users can see their reviews on a card that consists of user image and date and time info. Users see their posted reviews on my reviews page and manage reviews by editing or delete.",
+    "liveLink": "https://cloud-kitchen-assignment.web.app"
   },
   {
     "id": 3,
     "title": "Programming Library",
-    "image": "",
+    "image": "https://i.ibb.co/BTPVYCy/project-3.png",
     "type": "Course Learning Website",
-    "description": "A user can register an account with email password or Google login to view courses. Users can see course details by register or login and can download course info in pdf. Users can get premium access to a particular course by paying a certain amount."
+    "description": "A user can register an account with email password or Google login to view courses. Users can see course details by register or login and can download course info in pdf. Users can get premium access to a particular course by paying a certain amount.",
+    "liveLink": "https://programming-library-assignment.web.app"
   }  
 ]

@@ -3,6 +3,12 @@
     "id": 1,
     "projectTitle": "Joldikino",
     "type": "Used Products Resale",
+    "homeImage": "https://i.ibb.co/k4DmDNK/project-1.png",
+    "projectImages":[
+      "https://i.ibb.co/5MfR6B1/project-1-feature-1.png",
+      "https://i.ibb.co/rGnp1TM/project-1-feature-2.png",
+      "https://i.ibb.co/nsH55n4/project-1-feature-3.png"
+    ],
     "features": [
       "There is a dashboard to manage the admin panel",
       "The admin can verify a user delete a user and delete products which is reported by buyer.",
@@ -19,6 +25,12 @@
     "id": 2,
     "projectTitle": "Shamu's Kitchen",
     "type": "Cloud Kitchen Website",
+    "homeImage": "https://i.ibb.co/gFPMjsP/project-2.png",
+    "projectImages":[
+      "https://i.ibb.co/DpjdHJf/project-2-feature-1.png",
+      "https://i.ibb.co/FV0m8v8/project-2-feature-2.png",
+      "https://i.ibb.co/yyrGYGV/project-2-feature-3.png"
+    ],
     "features": [
       "Users can register an account by email password or GitHub to post a review",
       "Users can register account with their profile image",
@@ -36,6 +48,12 @@
     "id": 3,
     "projectTitle": "Programming Library",
     "type": "Course Learning Website",
+    "homeImage": "https://i.ibb.co/BTPVYCy/project-3.png",
+    "projectImages":[
+      "https://i.ibb.co/3rY7w5z/project-3-feature-1.png",
+      "https://i.ibb.co/Tm7NQrW/project-3-feature-2.png",
+      "https://i.ibb.co/K6HXHZt/project-3-feature-3.png"
+    ],
     "features": [
       "A user can register an account with email and password to get access to see course details",
       "Users can register or login via Google and GitHub.",
@@ -45,7 +63,7 @@
     ],
     "clientCode": "https://github.com/codernoyan/programming-library-client",
     "serverCode": "https://github.com/codernoyan/programming-library-server",
-    "liveLink": "https://programming-library-assignment.web.app/",
+    "liveLink": "https://programming-library-assignment.web.app",
     "tech": ["React", "React Router", "Tailwind CSS", "React Hot Toast", "React Icons", "React to PDF",
       "Firebase", "Node.js", "Express.js"]
   }
